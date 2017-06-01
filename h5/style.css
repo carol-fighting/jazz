@@ -1,0 +1,26 @@
+p {
+    text-align: left;
+}
+
+
+p.o2 {
+    color: mediumpurple;
+}
+
+.i2 {
+    color: deeppink;
+}
+
+table.lj {
+    width: 20%;
+    border: 0px;
+}
+
+table.lj th,
+td {
+    padding: 5px;
+}
+
+table.lj td {
+    width: 20px;
+}
